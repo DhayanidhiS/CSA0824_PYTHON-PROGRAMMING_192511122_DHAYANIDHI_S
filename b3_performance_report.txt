@@ -1,0 +1,6 @@
+PERFORMANCE COMPARISON REPORT
+-----------------------------
+Total records: 10000
+Python Loop: 0.003144 seconds
+Built-in Library: 0.00439 seconds
+SQL Method: 0.023737 seconds

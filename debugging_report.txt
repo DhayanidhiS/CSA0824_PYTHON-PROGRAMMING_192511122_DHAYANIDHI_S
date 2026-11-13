@@ -1,0 +1,10 @@
+AIR QUALITY DEBUGGING REPORT
+----------------------------
+Total records: 6
+Validation: Successful
+Execution time: 2.8e-05 seconds
+
+Average PM2.5 values:
+Adyar: 50.0
+Guindy: 102.5
+Velachery: 72.5

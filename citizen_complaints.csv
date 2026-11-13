@@ -1,0 +1,4 @@
+Complaint_ID,Citizen_Name,Complaint,Category,Sentiment,Summary,Date
+1,Ravi,There is a water leakage problem in our area.,Water Supply,Negative,There is a water leakage problem in our area.,2026-11-13
+2,Kumar,The road has many potholes and is in poor condition.,Road Maintenance,Negative,The road has many potholes and is in poor condition.,2026-11-13
+3,Priya,Thank you for improving the streetlight service.,Electricity,Positive,Thank you for improving the streetlight service.,2026-11-13

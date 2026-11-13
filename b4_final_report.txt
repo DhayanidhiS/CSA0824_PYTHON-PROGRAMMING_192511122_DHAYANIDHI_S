@@ -1,0 +1,21 @@
+FINAL ENGINEERING DECISION REPORT
+---------------------------------
+Total complaints: 50
+
+CATEGORY ANALYSIS
+Electricity: 10
+Road Maintenance: 10
+Sanitation: 10
+Water Supply: 10
+Drainage: 5
+Street Lighting: 5
+
+SENTIMENT ANALYSIS
+Negative: 45
+Neutral: 5
+
+Database query execution time: 0.008053 seconds
+
+ENGINEERING DECISION
+SQLite is suitable for structured complaint storage and category-based retrieval.
+Keyword-based classification is suitable for a basic demonstration but should be improved for real-world use.

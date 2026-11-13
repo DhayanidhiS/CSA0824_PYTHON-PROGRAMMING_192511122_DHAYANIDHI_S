@@ -1,0 +1,9 @@
+ADVERSARIAL DATA TEST REPORT
+----------------------------
+Original records: 6
+Duplicates detected: 1
+Valid records: 1
+Rejected records: 4
+Missing column test: Passed
+Wrong delimiter test: Passed
+Empty file test: Passed

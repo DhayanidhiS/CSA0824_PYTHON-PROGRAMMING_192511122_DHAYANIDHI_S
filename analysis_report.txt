@@ -1,0 +1,7 @@
+AIR QUALITY ANALYSIS REPORT
+---------------------------
+Adyar Average PM2.5: 50.0
+Guindy Average PM2.5: 102.5
+Velachery Average PM2.5: 72.5
+
+Highest pollution station: Guindy

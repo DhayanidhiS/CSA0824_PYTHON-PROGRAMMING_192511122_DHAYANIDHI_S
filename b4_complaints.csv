@@ -1,0 +1,51 @@
+complaint_id,complaint,category,sentiment
+1,Water leakage problem in our street,Water Supply,Negative
+2,Road has many potholes,Road Maintenance,Negative
+3,Garbage collection is delayed,Sanitation,Negative
+4,Electricity supply is poor,Electricity,Negative
+5,Drainage system is blocked,Drainage,Negative
+6,Streetlight is not working,Street Lighting,Negative
+7,Water supply is not available,Water Supply,Negative
+8,Road maintenance is required,Road Maintenance,Neutral
+9,Garbage is not collected,Sanitation,Negative
+10,Power failure in our area,Electricity,Negative
+11,Water leakage problem in our street,Water Supply,Negative
+12,Road has many potholes,Road Maintenance,Negative
+13,Garbage collection is delayed,Sanitation,Negative
+14,Electricity supply is poor,Electricity,Negative
+15,Drainage system is blocked,Drainage,Negative
+16,Streetlight is not working,Street Lighting,Negative
+17,Water supply is not available,Water Supply,Negative
+18,Road maintenance is required,Road Maintenance,Neutral
+19,Garbage is not collected,Sanitation,Negative
+20,Power failure in our area,Electricity,Negative
+21,Water leakage problem in our street,Water Supply,Negative
+22,Road has many potholes,Road Maintenance,Negative
+23,Garbage collection is delayed,Sanitation,Negative
+24,Electricity supply is poor,Electricity,Negative
+25,Drainage system is blocked,Drainage,Negative
+26,Streetlight is not working,Street Lighting,Negative
+27,Water supply is not available,Water Supply,Negative
+28,Road maintenance is required,Road Maintenance,Neutral
+29,Garbage is not collected,Sanitation,Negative
+30,Power failure in our area,Electricity,Negative
+31,Water leakage problem in our street,Water Supply,Negative
+32,Road has many potholes,Road Maintenance,Negative
+33,Garbage collection is delayed,Sanitation,Negative
+34,Electricity supply is poor,Electricity,Negative
+35,Drainage system is blocked,Drainage,Negative
+36,Streetlight is not working,Street Lighting,Negative
+37,Water supply is not available,Water Supply,Negative
+38,Road maintenance is required,Road Maintenance,Neutral
+39,Garbage is not collected,Sanitation,Negative
+40,Power failure in our area,Electricity,Negative
+41,Water leakage problem in our street,Water Supply,Negative
+42,Road has many potholes,Road Maintenance,Negative
+43,Garbage collection is delayed,Sanitation,Negative
+44,Electricity supply is poor,Electricity,Negative
+45,Drainage system is blocked,Drainage,Negative
+46,Streetlight is not working,Street Lighting,Negative
+47,Water supply is not available,Water Supply,Negative
+48,Road maintenance is required,Road Maintenance,Neutral
+49,Garbage is not collected,Sanitation,Negative
+50,Power failure in our area,Electricity,Negative
